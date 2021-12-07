@@ -1,1 +1,2 @@
-# Fintech_Project_3
+Fintech Project 3
+Participants: Pradeep Dahal, Peter Dibona, Erik Schmidt, John Melvin
